@@ -1,0 +1,7 @@
+Flask==2.2.2
+Flask_MySQLdb==1.0.1
+mysqlclient==2.1.1
+numpy==1.21.6
+gunicorn==20.1.0
+scikit-learn
+lightgbm
